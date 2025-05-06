@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Estudo\Estudo\bin\Debug\net9.0\Estudo.exe
+C:\Users\Rafael\Desktop\Estudo\Estudo\bin\Debug\net9.0\Estudo.deps.json
+C:\Users\Rafael\Desktop\Estudo\Estudo\bin\Debug\net9.0\Estudo.runtimeconfig.json
+C:\Users\Rafael\Desktop\Estudo\Estudo\bin\Debug\net9.0\Estudo.dll
+C:\Users\Rafael\Desktop\Estudo\Estudo\bin\Debug\net9.0\Estudo.pdb
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.dll
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\refint\Estudo.dll
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.pdb
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\Estudo.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Estudo\Estudo\obj\Debug\net9.0\ref\Estudo.dll
