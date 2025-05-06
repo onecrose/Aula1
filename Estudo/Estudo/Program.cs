@@ -29,7 +29,7 @@ class MainClass {
 
         switch (op) {
             case '+':
-                Console.WriteLine("Adittion");
+                Console.WriteLine("Addition");
                 result = n1 + n2;
                 break;
             case '-' :
@@ -56,7 +56,7 @@ class MainClass {
         if (errormsg == "") {
             Console.WriteLine("{0} {1} {2} = {3}", n1, op, n2, result);
         } else {
-            Console.WriteLine("ERRO! \n\n{0}", errormsg);
+            Console.WriteLine("ERROR! \n\n{0}", errormsg);
         }
     }
 }
