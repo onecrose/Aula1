@@ -1,5 +1,7 @@
 using System;
-
+/*
+Fazendo melhoria com TryParse ao invés de Parse
+*/
 class MainClass {
     public static void Main (string[] args) {
         double n1, n2, result = 0;
