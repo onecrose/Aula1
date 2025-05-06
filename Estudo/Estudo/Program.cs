@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 /*
 Refazendo código pra aprender
 Em inglês btw
@@ -11,7 +11,7 @@ class MainClass {
 
         Console.WriteLine ("Input the 1st value:");
         if (!double.TryParse(Console.ReadLine(), out n1)) {
-            Console.WriteLine("Invalid input fot 1st value!");
+            Console.WriteLine("Invalid input for 1st value!");
             return;
         }
 
@@ -45,7 +45,7 @@ class MainClass {
                 if (n2 != 0) {
                     result = n1 / n2;
                 } else {
-                    errormsg = "You'll not divide by zero dumbass!";
+                    errormsg = "Thou shalt not divide by ZERO!";
                 }
                 break;
             default:
@@ -54,7 +54,7 @@ class MainClass {
         }
 
         if (errormsg == "") {
-            Console.WriteLine("{0} {1} {2} = {3}", n1, n2, op, result);
+            Console.WriteLine("{0} {1} {2} = {3}", n1, op, n2, result);
         } else {
             Console.WriteLine("ERRO! \n\n{0}", errormsg);
         }
