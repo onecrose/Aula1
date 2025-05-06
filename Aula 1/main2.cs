@@ -4,9 +4,9 @@ Fazendo melhoria com TryParse ao invés de Parse
 */
 class MainClass {
     public static void Main (string[] args) {
-        double n1, n2, result = 0;
+        double n1, n2, total = 0;
         char op;
-        string errorMsg = "";
+        string msgerro = "";
 
         Console.WriteLine("Digite o 1º Valor:");
         if (!double.TryParse(Console.ReadLine(), out n1)) {
@@ -29,31 +29,31 @@ class MainClass {
         switch (op) {
             case '+':
                 Console.WriteLine("Adição");
-                result = n1 + n2;
+                total = n1 + n2;
                 break;
             case '-':
                 Console.WriteLine("Subtração");
-                result = n1 - n2;
+                total = n1 - n2;
                 break;
             case '*':
                 Console.WriteLine("Multiplicação");
-                result = n1 * n2;
+                total = n1 * n2;
                 break;
             case '/':
                 Console.WriteLine("Divisão");
                 if (n2 != 0) {
-                    result = n1 / n2;
+                    total = n1 / n2;
                 } else {
-                    errorMsg = "Não dividirás por ZERO!";
+                    msgerro = "Não dividirás por ZERO!";
                 }
                 break;
             default:
-                errorMsg = "Operação Inválida!";
+                msgerro = "Operação Inválida!";
                 break;
         }
 
-        if (errorMsg == "") {
-            Console.WriteLine("{0} {1} {2} = {3}", n1, op, n2, result);
+        if (msgerro == "") {
+            Console.WriteLine("{0} {1} {2} = {3}", n1, op, n2, total);
         } else {
             Console.WriteLine("ERRO!!\n\n{0}", errorMsg);
         }
