@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\vscode\Rafael\bin\Debug\net9.0\Rafael.exe
+C:\Users\Rafael\Desktop\vscode\Rafael\bin\Debug\net9.0\Rafael.deps.json
+C:\Users\Rafael\Desktop\vscode\Rafael\bin\Debug\net9.0\Rafael.runtimeconfig.json
+C:\Users\Rafael\Desktop\vscode\Rafael\bin\Debug\net9.0\Rafael.dll
+C:\Users\Rafael\Desktop\vscode\Rafael\bin\Debug\net9.0\Rafael.pdb
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.dll
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\refint\Rafael.dll
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.pdb
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\Rafael.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\vscode\Rafael\obj\Debug\net9.0\ref\Rafael.dll
